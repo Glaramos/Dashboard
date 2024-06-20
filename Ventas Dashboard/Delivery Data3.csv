@@ -1,0 +1,101 @@
+id;fecha_envio;Proveedor;Prioridad;Cantidad;Ventas;Descuento;Modo_envio;Margen;Utilidad;Precio_venta;Precio_costo;Costo_envio;Nombre_cliente;Lugar;Segmento;Categoria;Subcategoria
+85;24/9/2020;Luis Gomez;Baja;10;37216.74;0.49;Aereo regular;0.4;148.87;3740;7.99;5.03;Eugenia escobar;Bolivia;Negocio;Elementos de oficina;Anotador
+98;25/9/2020;Luis Gomez;Baja;55;277921.48;0.49;Aereo regular;0.34;944.93;5078;130.98;8.99;Jonathan Doherty;Brasil;Consumidor;Elementos de oficina;Anotador
+89;26/9/2020;Luis Gomez;Alta;62;607897.62;0.58;Aereo regular;0.34;2066.85;9862;30.93;6.27;Josias Mendez;Chile;Corporativo;Elementos de oficina;Anotador
+93;27/9/2020;Luis Gomez;Critica;17;208401.2;0.18;Aereo regular;0.29;604.36;12281;2.89;8.99;Julie Creighton;Chile;Corporativo;Elementos de oficina;Anotador
+92;28/9/2020;Luis Gomez;Regular;23;274094.3;0.35;Aereo regular;0.39;1068.97;11959;125.99;2.56;Liz Pelletier;Paraguay;Corporativo;Elementos de oficina;Anotador
+42;29/9/2020;Meliza Men;Baja;44;259435.04;0.82;Aereo expreso;0.21;544.81;5945;6.48;3.92;Andrea Uribes;Peru;Corporativo;Tecnologia;Cable de red
+39;30/9/2020;Meliza Men;Regular;16;176785.27;0.36;Terrestre;0.21;371.25;11089;205.99;4.2;Juana Beatriz;Paraguay;Negocio;Tecnologia;Cable de red
+45;1/10/2020;Meliza Men;Normal;63;866860.16;0.53;Terrestre;0.29;2513.89;13833;9.71;0.7;Eduardo Perez;Chile;Corporativo;Tecnologia;Cable de red
+35;2/10/2020;Meliza Men;Regular;19;198889.5;0.23;Aereo regular;0.27;537;10492;155.99;89.3;Sonia Valdez;Bolivia;Consumidor;Tecnologia;Cable de red
+38;3/10/2020;Meliza Men;Baja;42;310090.85;0.43;Terrestre;0.35;1085.32;7415;1.68;8.99;Juan Solis;Paraguay;Negocio;Tecnologia;Cable de red
+34;4/10/2020;Meliza Men;Alta;18;134092.35;0.22;Aereo regular;0.38;509.55;7466;9.11;5.81;Octavia Muoz;Bolivia;Consumidor;Tecnologia;Cable de red
+32;5/10/2020;Meliza Men;Alta;59;880050.05;0.38;Aereo expreso;0.39;3432.2;14973;70.89;2.56;Roque Sanz;Bolivia;Oficina en casa;Tecnologia;Cable de red
+95;6/10/2020;Juan Paredes;Regular;65;519064.34;0.59;Aereo expreso;0.25;1297.66;8033;150.98;89.3;Sampie Company A;Argentina;Oficina en casa;Muebles;Cama
+96;7/10/2020;Juan Paredes;Regular;35;472036.69;0.65;Aereo expreso;0.27;1274.5;13575;18.97;50.3;Tamara Dahiern;Argentina;Consumidor;Muebles;Cama
+76;8/10/2020;Juan Paredes;Alta;67;60853.89;0.3;Terrestre;0.4;243.42;911;65.99;2.58;Juana Beatriz;Bolivia;Consumidor;Elementos de oficina;Click
+80;9/10/2020;Miguel Sola;Regular;69;150248.67;0.57;Terrestre;0.2;300.5;2190;2.08;8.19;Eduardo Perez;Bolivia;Negocio;Elementos de oficina;Click
+79;15/11/2021;Miguel Sola;Normal;50;226771.2;0.8;Terrestre;0.21;476.22;4572;38.94;0.5;Sonia Valdez;Bolivia;Negocio;Elementos de oficina;Click
+72;16/11/2021;Miguel Sola;Alta;12;146086.92;0.05;Aereo expreso;0.32;467.48;12180;130.98;3.92;Juan Solis;Argentina;Corporativo;Elementos de oficina;Click
+54;17/11/2021;Miguel Sola;Alta;8;13834.09;0.56;Aereo regular;0.32;44.27;1739;2.08;54.74;Arthur Gainer;Bolivia;Consumidor;Elementos de oficina;Cuaderno
+66;18/11/2021;Miguel Sola;Baja;16;61374.84;0.21;Terrestre;0.37;227.09;3844;125.99;50.3;Emily Phan;Peru;Corporativo;Elementos de oficina;Cuaderno
+67;19/11/2021;Miguel Sola;Regular;29;331576.63;0.16;Aereo regular;0.3;994.73;11452;2.89;2.25;Emily Phan;Colombia;Corporativo;Elementos de oficina;Cuaderno
+59;20/11/2021;Miguel Sola;Alta;30;12648.77;0.56;Terrestre;0.32;40.48;424;7.99;6.27;Keith Sawkins;Bolivia;Negocio;Elementos de oficina;Cuaderno
+63;21/11/2021;Miguel Sola;Regular;9;81576.25;0.45;Aereo regular;0.3;244.73;9105;30.93;8.99;Roy Collins;Paraguay;Corporativo;Elementos de oficina;Cuaderno
+53;22/11/2021;Miguel Sola;Regular;53;542155.32;0.84;Aereo regular;0.39;2114.41;10316;38.94;9.45;Tamara Dahiern;Bolivia;Oficina en casa;Elementos de oficina;Cuaderno
+69;23/11/2021;Juan Paredes;Baja;51;683824.51;0.87;Aereo expreso;0.37;2530.15;13526;150.98;4.2;Anne Pryre;Chile;Corporativo;Muebles;Escritorio
+57;24/11/2021;Juan Paredes;Baja;63;58222.66;0.52;Aereo expreso;0.32;186.31;929;107.53;4.62;Helen Wasserman;Bolivia;Negocio;Muebles;Escritorio
+56;25/11/2021;Juan Paredes;Normal;20;282498.93;0.17;Terrestre;0.38;1073.5;14149;5.81;35;Jonathan Doherty;Bolivia;Consumidor;Muebles;Escritorio
+44;25/10/2022;Juan Paredes;Alta;20;152397.23;0.42;Aereo expreso;0.2;304.79;7652;18.97;3.92;Roy Collins;Paraguay;Corporativo;Muebles;Escritorio
+49;26/10/2022;Juan Paredes;Alta;70;999484.29;0.7;Aereo regular;0.24;2398.76;14379;4.98;0.5;Liz Pelletier;Ecuador;Corporativo;Muebles;Escritorio
+62;27/10/2022;Juan Paredes;Alta;63;535383.9;0.42;Aereo regular;0.25;1338.46;8534;2.88;2.56;Pauline Chand;Paraguay;Negocio;Muebles;Escritorio
+70;28/10/2022;Juan Paredes;Baja;54;732702.8;0.04;Aereo expreso;0.27;1978.3;13574;18.97;1.99;Valerie Takahito;Chile;Corporativo;Muebles;Escritorio
+58;29/10/2022;Joaquien Perez;Regular;16;140025.87;0.38;Aereo regular;0.27;378.07;8785;70.89;8.99;Helen Wasserman;Bolivia;Negocio;Tecnologia;Fuente
+55;30/10/2022;Joaquien Perez;Critica;34;84143.38;0.69;Aereo regular;0.25;210.36;2492;8.46;5.03;Jonathan Doherty;Bolivia;Consumidor;Tecnologia;Fuente
+51;31/10/2022;Joaquien Perez;Normal;12;91909.37;0.66;Terrestre;0.34;312.49;7710;12.44;13.99;Julie Creighton;Paraguay;Corporativo;Tecnologia;Fuente
+60;6/11/2023;Joaquien Perez;Alta;21;258514.47;0.66;Aereo regular;0.34;878.95;12392;9.11;7.98;Keith Sawkins;Argentina;Negocio;Tecnologia;Fuente
+47;12/11/2023;Joaquien Perez;Alta;50;13514.77;0.26;Terrestre;0.38;51.36;271;7.99;5.99;Liz Pelletier;Argentina;Corporativo;Tecnologia;Fuente
+48;13/11/2023;Joaquien Perez;Alta;50;699909.1;0.12;Aereo regular;0.27;1889.75;14015;95.99;8.99;Liz Pelletier;Argentina;Corporativo;Tecnologia;Fuente
+52;9/12/2023;Joaquien Perez;Regular;6;12049.11;0.14;Aereo regular;0.2;24.1;2011;7.28;9.03;Sampie Company A;Bolivia;Oficina en casa;Tecnologia;Fuente
+11;14/10/2023;Miguel Sola;Regular;41;516056.73;0.61;Aereo expreso;0.31;1599.78;12664;30.93;0.7;Jonathan Doherty;Bolivia;Oficina en casa;Elementos de oficina;Hojas A4
+14;3/11/2023;Miguel Sola;Baja;48;580616.06;0.32;Aereo regular;0.35;2032.16;12135;125.99;3.92;Keith Sawkins;Paraguay;Consumidor;Elementos de oficina;Hojas A4
+2;7/11/2023;Miguel Sola;Regular;2;15656.4;40;Terrestre;0.29;45.4;13047;2.08;2.56;Liz Pelletier;Bolivia;Corporativo;Elementos de oficina;Hojas A4
+1;5/12/2023;Miguel Sola;Baja;6;407.81;4;Aereo regular;0.45;1.84;70.8;38.94;35;Ruben Dartf;Ecuador;Negocio;Elementos de oficina;Hojas A4
+7;7/12/2023;Miguel Sola;Regular;30;328923.7;0.09;Aereo regular;0.33;1085.45;10974;7.99;2.25;Sampie Company A;Bolivia;Corporativo;Elementos de oficina;Hojas A4
+40;23/9/2024;Miguel Sola;Regular;14;41773.38;0.44;Terrestre;0.33;137.85;2997;125.99;1.99;Pauline Chand;Chile;Negocio;Elementos de oficina;Lapicera
+41;24/9/2024;Miguel Sola;Baja;17;17584.53;0.54;Aereo expreso;0.33;58.03;1040;2.89;0.7;Valerie Takahito;Chile;Negocio;Elementos de oficina;Lapicera
+37;25/9/2024;Miguel Sola;Critica;9;71570.12;0.51;Terrestre;0.4;286.28;7993;30.93;2.25;Helen Wasserman;Bolivia;Negocio;Elementos de oficina;Lapicera
+50;26/9/2024;Miguel Sola;Normal;40;454610.18;0.87;Aereo regular;0.3;1363.83;11465;65.99;8.19;Julie Creighton;Bolivia;Corporativo;Elementos de oficina;Lapicera
+33;27/9/2024;Miguel Sola;Alta;22;103453.23;0.52;Aereo regular;0.36;372.43;4727;7.99;8.99;Liz Pelletier;Bolivia;Consumidor;Elementos de oficina;Lapicera
+46;28/9/2024;Miguel Sola;Baja;30;126922.22;0.78;Terrestre;0.21;266.54;4264;130.98;2.58;Ruben Dartf;Chile;Corporativo;Elementos de oficina;Lapicera
+10;29/9/2024;Juan Paredes;Baja;32;36272.06;0.57;Aereo regular;0.36;130.58;1140;2.88;1.99;Jonathan Doherty;Bolivia;Oficina en casa;Muebles;Mesa
+5;30/9/2024;Juan Paredes;Alta;24;287757.31;0.35;Terrestre;0.26;748.17;12032;107.53;89.3;Julie Creighton;Bolivia;Corporativo;Muebles;Mesa
+4;1/10/2024;Juan Paredes;Alta;26;25675.16;0.05;Aereo regular;0.34;87.3;988;5.81;5.81;Liz Pelletier;Bolivia;Corporativo;Muebles;Mesa
+17;2/10/2024;Juan Paredes;Normal;26;134535.02;0.74;Terrestre;0.36;484.33;5213;150.98;5.99;Pauline Chand;Chile;Negocio;Muebles;Mesa
+18;3/10/2024;Juan Paredes;Baja;4;32864.04;0.17;Terrestre;0.34;111.74;8230;18.97;8.99;Roy Collins;Peru;Negocio;Muebles;Mesa
+87;4/10/2024;Joaquien Perez;Alta;61;301835.26;0.7;Aereo expreso;0.2;603.67;4983;155.99;4.62;Ruben Dartf;Paraguay;Corporativo;Tecnologia;Monitor
+84;5/10/2024;Joaquien Perez;Normal;21;75551.23;0.12;Aereo regular;0.24;181.32;3602;70.89;54.74;Jonathan Doherty;Argentina;Corporativo;Tecnologia;Monitor
+90;6/10/2024;Joaquien Perez;Alta;64;39477.27;0.99;Aereo regular;0.31;122.38;623;1.68;7.98;Julie Creighton;Peru;Corporativo;Tecnologia;Monitor
+86;7/10/2024;Joaquien Perez;Regular;30;306507.75;0.97;Aereo regular;0.21;643.67;10317;9.11;35;Liz Pelletier;Paraguay;Corporativo;Tecnologia;Monitor
+81;8/10/2024;Joaquien Perez;Regular;68;778810.9;0.71;Terrestre;0.21;1635.5;11535;8.46;13.99;Pauline Chand;Bolivia;Negocio;Tecnologia;Monitor
+91;9/10/2024;Joaquien Perez;Regular;24;179519.04;0.4;Aereo regular;0.22;394.94;7510;205.99;35;Roy Collins;Colombia;Corporativo;Tecnologia;Monitor
+78;10/10/2024;Joaquien Perez;Normal;30;354566.03;0.89;Terrestre;0.3;1063.7;11925;7.28;8.99;Helen Wasserman;Bolivia;Negocio;Tecnologia;Monitor
+9;11/10/2024;Joaquien Perez;Critica;46;422253.72;0.72;Terrestre;0.21;886.73;9246;155.99;4.2;Arthur Gainer;Bolivia;Corporativo;Tecnologia;Mouse
+12;10/10/2023;Joaquien Perez;Regular;42;217533.94;0.93;Aereo regular;0.4;870.14;5228;1.68;3.92;Helen Wasserman;Argentina;Consumidor;Tecnologia;Mouse
+13;11/10/2023;Joaquien Perez;Baja;28;23137.63;0.2;Aereo regular;0.2;46.28;828;205.99;0.7;Helen Wasserman;Bolivia;Consumidor;Tecnologia;Mouse
+6;29/10/2023;Joaquien Perez;Alta;23;63948.14;0.31;Aereo regular;0.29;185.45;2789;70.89;50.3;Julie Creighton;Bolivia;Corporativo;Tecnologia;Mouse
+3;11/11/2023;Joaquien Perez;Alta;15;106579.73;0.43;Aereo regular;0.37;394.34;7136;8.46;8.99;Liz Pelletier;Paraguay;Corporativo;Tecnologia;Mouse
+8;12/12/2023;Joaquien Perez;Regular;14;148042.97;0.25;Aereo regular;0.31;458.93;10601;9.11;8.99;Tamara Dahiern;Bolivia;Corporativo;Tecnologia;Mouse
+61;30/5/2023;Joaquien Perez;Alta;48;35298.17;0.22;Aereo regular;0.3;105.89;737;155.99;35;Craig Yedeab;Bolivia;Negocio;Tecnologia;Parlante
+74;30/5/2023;Joaquien Perez;Baja;7;91340.89;0.46;Aereo regular;0.4;365.36;13109;95.99;3.92;Tamara Dahiern;Bolivia;Oficina en casa;Tecnologia;Parlante
+73;8/10/2023;Joaquien Perez;Normal;56;318417.62;0.35;Aereo regular;0.36;1146.3;5706;7.99;0.7;Keith Sawkins;Ecuador;Oficina en casa;Tecnologia;Parlante
+71;2/11/2023;Joaquien Perez;Baja;34;377342.53;0.41;Aereo expreso;0.25;943.36;11144;9.71;0.7;Justin Hirsh;Argentina;Corporativo;Tecnologia;Parlante
+68;24/11/2023;Joaquien Perez;Regular;29;126580.95;0.55;Aereo regular;0.4;506.32;4389;6.48;8.99;Michael Dominguez;Paraguay;Corporativo;Tecnologia;Parlante
+77;28/11/2023;Joaquien Perez;Alta;65;356648.66;0.02;Terrestre;0.28;998.62;5488;12.44;5.99;Jonathan Doherty;Bolivia;Consumidor;Tecnologia;Parlante
+64;3/12/2023;Joaquien Perez;Regular;68;17230.55;0.24;Aereo regular;0.21;36.18;254;1.68;5.81;Roy Collins;Chile;Negocio;Tecnologia;Parlante
+65;4/12/2023;Joaquien Perez;Critica;60;407184.37;0.74;Aereo regular;0.28;1140.12;6837;205.99;89.3;Roy Collins;Chile;Corporativo;Tecnologia;Parlante
+97;27/5/2023;Joaquien Perez;Baja;49;522722.14;0.03;Aereo expreso;0.34;1777.26;10671;9.71;2.25;Arthur Gainer;Bolivia;Consumidor;Tecnologia;Router
+100;13/10/2023;Joaquien Perez;Alta;28;8380.74;0.89;Aereo regular;0.22;18.44;302;95.99;1.99;Helen Wasserman;Argentina;Negocio;Tecnologia;Router
+99;19/10/2023;Joaquien Perez;Baja;14;193107.06;0.81;Aereo regular;0.39;753.12;13906;7.99;4.2;Jonathan Doherty;Paraguay;Negocio;Tecnologia;Router
+94;31/10/2023;Joaquien Perez;Baja;62;592000.63;0.61;Aereo expreso;0.28;1657.6;9607;6.48;5.81;Julie Creighton;Chile;Oficina en casa;Tecnologia;Router
+31;30/5/2023;Juan Paredes;Alta;55;335286.56;0.08;Aereo regular;0.32;1072.92;6101;107.53;35;Michael Dominguez;Bolivia;Oficina en casa;Muebles;Silla
+43;1/10/2023;Juan Paredes;Baja;14;127042.56;0.63;Aereo expreso;0.29;368.42;9132;150.98;0.7;Sofia albarado;Colombia;Negocio;Muebles;Silla
+36;22/10/2023;Juan Paredes;Regular;31;190788.14;0.09;Aereo regular;0.31;591.44;6160;2.88;50.3;Alexiz Pena;Argentina;Negocio;Muebles;Silla
+30;17/11/2023;Juan Paredes;Regular;66;486486.96;0.62;Aereo regular;0.37;1800;7417;5.81;7.98;Ramon Ilesio;Bolivia;Corporativo;Muebles;Silla
+23;23/11/2023;Juan Paredes;Normal;27;173526.38;0.85;Aereo expreso;0.23;399.11;6482;4.98;9.45;Fautisno Edmundo;Argentina;Corporativo;Muebles;Silla
+88;2/10/2023;Juan Paredes;Alta;36;527561.28;0.33;Aereo expreso;0.36;1899.22;14703;2.88;8.99;Craig Yedeab;Chile;Corporativo;Muebles;Sofa
+83;3/10/2023;Juan Paredes;Critica;66;853709.99;0.79;Terrestre;0.31;2646.5;13038;107.53;9.45;Alexiz Pena;Bolivia;Negocio;Muebles;Sofa
+82;21/10/2023;Juan Paredes;Alta;7;68030.1;0.77;Terrestre;0.4;272.12;9794;5.81;9.03;Ramon Ilesio;Bolivia;Negocio;Muebles;Sofa
+75;18/11/2023;Juan Alberto;Alta;11;22668.46;0.59;Aereo regular;0.36;81.61;2073;4.98;0.7;Fautisno Edmundo;Paraguay;Consumidor;Muebles;Sofa
+16;30/5/2023;Joaquien Perez;Alta;37;427409.83;0.46;Terrestre;0.31;1324.97;11605;6.48;2.58;Craig Yedeab;Chile;Negocio;Tecnologia;Teclado
+29;30/5/2023;Joaquien Perez;Baja;27;224702.97;0.14;Aereo regular;0.24;539.29;8334;8.46;6.27;Rosa Mendez;Bolivia;Corporativo;Tecnologia;Teclado
+21;29/9/2023;Joaquien Perez;Alta;23;121754.02;0.57;Aereo expreso;0.29;353.09;5324;7.99;13.99;Emily Phan;Chile;Corporativo;Tecnologia;Teclado
+22;30/9/2023;Joaquien Perez;Normal;30;7151.36;0.26;Aereo expreso;0.34;24.31;239;95.99;9.03;Emily Phan;Chile;Negocio;Tecnologia;Teclado
+26;1/11/2023;Joaquien Perez;Alta;10;113079.74;0.3;Terrestre;0.26;294.01;11342;7.28;35;Justin Hirsh;Bolivia;Corporativo;Tecnologia;Teclado
+19;2/12/2023;Joaquien Perez;Alta;3;38631.85;0.4;Terrestre;0.3;115.9;12929;9.71;0.5;Roy Collins;Colombia;Negocio;Tecnologia;Teclado
+25;14/12/2023;Joaquien Perez;Regular;25;332907.55;0.23;Terrestre;0.26;865.56;13347;12.44;5.03;Valerie Takahito;Ecuador;Corporativo;Tecnologia;Teclado
+24;23/5/2023;Miguel Sola;Regular;11;104129.43;0.98;Terrestre;0.29;301.98;9560;65.99;54.74;Anne Pryre;Argentina;Corporativo;Elementos de oficina;Toner
+28;7/10/2023;Miguel Sola;Normal;49;124067.85;0.55;Aereo regular;0.22;272.95;2546;2.08;8.99;Anne Pryre;Bolivia;Corporativo;Elementos de oficina;Toner
+15;4/11/2023;Miguel Sola;Baja;46;463520.8;0.88;Terrestre;0.35;1622.32;10166;2.89;0.7;Keith Sawkins;Paraguay;Negocio;Elementos de oficina;Toner
+27;19/11/2023;Miguel Sola;Critica;14;125185.09;0.27;Aereo regular;0.37;463.18;8966;38.94;4.62;Maria Zettner;Paraguay;Corporativo;Elementos de oficina;Toner
+20;29/11/2023;Miguel Sola;Alta;29;386734.05;0.99;Aereo expreso;0.27;1044.18;13469;130.98;8.19;Roy Collins;Paraguay;Negocio;Elementos de oficina;Toner
