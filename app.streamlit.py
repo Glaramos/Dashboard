@@ -5,7 +5,7 @@ import numpy as np
 
 #Page configuration
 st.set_page_config(
-    page_title= "DELIVERY DATA",   
+    page_title= "VENTAS DE PRODUCTOS",   
     page_icon= "logistics-delivery.png",
     layout="wide",
     initial_sidebar_state="expanded"
