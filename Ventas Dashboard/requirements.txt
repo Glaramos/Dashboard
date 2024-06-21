@@ -1,5 +1,4 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import numpy as np
-
+numpy==1.26.4
+pandas==2.2.0
+plotly==5.22.0
+streamlit==1.31.0
