@@ -62,7 +62,7 @@ df = pd.read_csv('Delivery Data3.csv', sep=';')
 with st.sidebar:
     st.image( './logistics-delivery.png')
     # st.image("https://www.pixenli.com/image/fm0aEpMI", width=150)
-    st.title('Delivery Dashboard')
+    st.title('Ventas Dashboard')
 
     # #Select years of data
     df['fecha_envio'] = pd.to_datetime(df['fecha_envio'], format= '%d/%m/%Y')
